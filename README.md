@@ -1,7 +1,7 @@
 -----
 
 
-<h3 style="font-size: 55px;">Hello my friend  😁✋</h3>
+<h3 style="font-size: 75px;">Hello my friend  😁✋</h3>
 
 <br> 
 
